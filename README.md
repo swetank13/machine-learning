@@ -1,4 +1,4 @@
-# Work space structure
+### Work space structure
 1. data: All the files used in developing notebook.
 2. documents: Used to save documents used in refering in notebook.
 3. images: Used in notebook for better visual.
